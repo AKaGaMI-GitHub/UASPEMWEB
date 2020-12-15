@@ -1,0 +1,22 @@
+{
+    "menu": [
+        {
+            "nama_barang": "iphone 11",
+            "gambar": "../img/iphone 11.png",
+            "logo": "../img/apple.png"
+        },
+        {
+            "nama_barang": "iphone 11 pro",
+            "gambar":   "../img/iphone_11 promax.png"
+        },
+        {
+            "nama_barang": "iphone 11",
+            "gambar": "img/iphone 11.png",
+            "logo": "img/apple.png"
+        },
+        {
+            "nama_barang": "iphone 11 pro",
+            "gambar":   "img/iphone_11 promax.png"
+        }
+    ]
+}
